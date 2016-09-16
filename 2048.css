@@ -1,3 +1,6 @@
+body{
+  background-color: #e5e3db;
+}
 #gridPanel{
   width:480px; height:480px;
   margin:0 auto;
@@ -67,7 +70,6 @@ p{
 }
 #gameOver>p{
   width:300px; height:200px;
-  /*鄙视题: 用css实现元素居中*/
   position:absolute;
   top:50%; left:50%;
   margin-left:-150px; margin-top:-100px;
